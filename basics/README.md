@@ -3,9 +3,9 @@
 This folder is only for basic level
 
 Standards:
-  - Variable (variable.php)
-  - Values (value.php)
-  - Case-Sensitive (case.php)
+  - Variable (intro.php)
+  - Values (intro.php)
+  - Case-Sensitive (intro.php)
 
 Print:
   - 'echo' (echo.php)
