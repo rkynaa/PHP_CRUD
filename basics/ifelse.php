@@ -1,7 +1,7 @@
 <?php
 
 /*
-Name file: if.php
+Name file: ifelse.php
 Main objective(s):
     1. To learn how to use 'if, elseif and else' condition in PHP language
     2. To understand its characteristics
