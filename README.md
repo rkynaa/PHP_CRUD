@@ -9,9 +9,9 @@ Availability:
   3. Expert level: -
   
 Basic level including: 
-  1. Variables (variable.php)
-  2. Values (values.php)
-  3. Case-Sensitivity (case.php)
+  1. Variables (intro.php)
+  2. Values (intro.php)
+  3. Case-Sensitivity (intro.php)
   4. 'echo' (echo.php)
   5. 'print' (print.php)
   6. 'printf' (printf.php)
