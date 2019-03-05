@@ -8,7 +8,7 @@ Availability:
   2. Advanced level: -
   3. Expert level: -
   
-Basic level included: 
+Basic level including: 
   1. Variables (variable.php)
   2. Values (values.php)
   3. Case-Sensitivity (case.php)
