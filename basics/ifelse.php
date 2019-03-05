@@ -16,6 +16,9 @@ if ($counter)
 {
     echo "Hello World! What a great day! <br>";
 }
+// It means that if the 'counter' variable has 'true' value,
+// it will print "Hello World! What a great day! <br>",
+// which it will because the 'counter' has 'true' value
 
 // if you want to use 'if else' condition:
 $counter = false;
@@ -27,6 +30,10 @@ else
 {
     echo "Well, when life gave you lemons, make a lemonade!<br>";
 }
+// It means that if the 'counter' variable has 'true' value,
+// it will print "What a lovely day it is, is it? <br>" and if it's not,
+// then it will print "Well, when life gave you lemons, make a lemonade!<br>",
+// which it will because the 'counter' has 'false' value
 
 // if you want to use all 'if', 'elseif' and 'else' condition:
 $counter = null;
@@ -42,6 +49,12 @@ else
 {
     echo "I can't say if you're right or wrong. <br>";
 }
+// It means that if the 'counter' variable has 'true' value,
+// it will print "Well, it is true. <br>".
+// if it has 'false' value, then it will print "Well, you are wrong! <br>".
+// However, if it has any other value beside 'true' and 'false',
+// it will print "I can't say if you're right or wrong. <br>"
+// which it will because the 'counter' has 'null' value
 
 // Now, you can fully understand how to use 'if', 'elseif' and 'else' in PHP
 ?>
