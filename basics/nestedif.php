@@ -34,8 +34,12 @@ if ($counter == true){
     }
 } else {
     if ($counter != $counter1) {
+        echo $counter." is not equal to ".$counter1."<br>";
     } if ($counter != $counter2) {
+        echo $counter." is not equal to ".$counter2."<br>";
     } if ($counter1 != $counter2) {
+        echo $counter1." is not equal to ".$counter2."<br>";
     }
 }
+
 ?>
