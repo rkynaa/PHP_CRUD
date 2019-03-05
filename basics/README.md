@@ -4,7 +4,7 @@ This folder is only for basic level
 
 Standards:
   - Variable (intro.php)
-  - Values (intro.php)
+  - Data types (intro.php)
   - Case-Sensitive (intro.php)
 
 Print:
