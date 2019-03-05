@@ -10,7 +10,7 @@ Availability:
   
 Basic level including: 
   1. Variables (intro.php)
-  2. Values (intro.php)
+  2. Data type (intro.php)
   3. Case-Sensitivity (intro.php)
   4. 'echo' (echo.php)
   5. 'print' (print.php)
